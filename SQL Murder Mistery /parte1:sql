@@ -1,6 +1,6 @@
 -- SQL Murder Mystery 🕵️‍♀️
 -- Solução do desafio usando SQL
--- Autor: [Seu Nome]
+-- Autor: Hosana 
 
 -- Relatório do crime em SQL City no dia 15/01/2018
 select * 
